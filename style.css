@@ -221,4 +221,8 @@ a:active {
         align-items: center;
         gap: 30px;
     }
+    .banniere img{
+        height: 400px;
+        width: 60%;
+    }
 }
