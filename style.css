@@ -186,7 +186,9 @@ a:active {
 
 
 @media (max-width: 2000px) {
-
+    body{
+    width: 100vh;
+    }
     .navitem{
         margin: 20px;
         flex-shrink: 0;
