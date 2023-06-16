@@ -185,10 +185,14 @@ a:active {
 }
 
 
-@media (max-width: 2000px) {
+@media (max-width: 1300px) {
     body{
         width: 100vh;
         height: 100vh;
+    }
+    .banniere img{
+        height: 300px;
+        width: 70%;
     }
     .navitem{
         margin: 20px;
